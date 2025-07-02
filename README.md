@@ -35,7 +35,7 @@ All data is simulated and persisted using the browser's `localStorage`. No backe
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone <https://github.com/sandeep26-11/ENTNT_Dental_Center-Assignment.git>
     ```
 2.  **Navigate to the project directory:**
     ```bash
