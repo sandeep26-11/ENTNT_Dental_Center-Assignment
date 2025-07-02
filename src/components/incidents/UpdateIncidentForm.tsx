@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react';
+// import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 
 // Assuming Incident type is defined elsewhere and imported
 interface Incident {

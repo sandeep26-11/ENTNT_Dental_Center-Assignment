@@ -5,7 +5,7 @@ import UpdateIncidentForm from '../../components/incidents/UpdateIncidentForm';
 
 const IncidentDetailPage = () => {
     const { id } = useParams<{ id: string }>();
-    const { getIncidentById, getPatientName, updateIncident } = useData();
+    const { getIncidentById, updateIncident } = useData();
     const navigate = useNavigate();
     const incident = id ? getIncidentById(id) : undefined;
 
